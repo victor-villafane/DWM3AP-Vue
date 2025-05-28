@@ -7,3 +7,5 @@ defineProps({
 <template>
   <h1>{{ texto }}</h1>
 </template>
+
+<style scoped></style>
